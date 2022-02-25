@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ca2e9cce_002Db6f3_002D49c5_002Db59a_002Dce7a7013b3f7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MissingNumber_267_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9BC8B9B1-C188-4E9F-9071-D6E10FF27760::net6.0::MissingNumber_268.Solution.MissingNumber_267_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9BC8B9B1-C188-4E9F-9071-D6E10FF27760::net6.0::FindAllNumbersDisappearedInAnArray_448.Solution.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9BC8B9B1-C188-4E9F-9071-D6E10FF27760::net6.0::SingleNumber_136.Solution.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9BC8B9B1-C188-4E9F-9071-D6E10FF27760::net6.0::SingleNumber_136.Solution.TestSol&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
