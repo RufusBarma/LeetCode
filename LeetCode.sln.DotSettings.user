@@ -10,5 +10,6 @@
     &lt;TestId&gt;xUnit::9BC8B9B1-C188-4E9F-9071-D6E10FF27760::net6.0::BinarySearch_704.Solution.Test&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::9BC8B9B1-C188-4E9F-9071-D6E10FF27760::net6.0::GuessNumberHigherOrLower_374.Solution.Test&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::9BC8B9B1-C188-4E9F-9071-D6E10FF27760::net6.0::SearchA2DMatrix74.Solution.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9BC8B9B1-C188-4E9F-9071-D6E10FF27760::net6.0::SearchInRotatedSortedArray_33.Solution.Test&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
