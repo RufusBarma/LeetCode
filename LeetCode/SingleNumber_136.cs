@@ -74,6 +74,14 @@ public class Solution
 		return nums.Aggregate(0, (current, num) => current ^ num);
 	}
 
+	public int Solution4(int[] nums)
+	{
+		var result = 0;
+		foreach (var num in nums)
+			result ^= num;
+		return result;
+	}
+
 	[Fact]
 	public void Test()
 	{
