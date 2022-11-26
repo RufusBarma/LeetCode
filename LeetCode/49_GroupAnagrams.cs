@@ -23,9 +23,9 @@ public class Solution
         {
             (new[]
             {
+                new[]{"eat","tea","ate"},
+                new[]{"tan","nat"},
                 new[]{ "bat" },
-                new[]{"nat","tan"},
-                new[]{"ate","eat","tea"}
             }, new[] { "eat","tea","tan","ate","nat","bat" }),
             (new[]{new[]{ "a" }}, new[] { "a" }),
             (new[] { new[] { "" } }, new[] { "" })
